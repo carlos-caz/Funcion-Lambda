@@ -1,0 +1,21 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "reactamplifyexample24263bb5b4263bb5b",
+  "functionName": "reactamplifyexample24263bb5b4263bb5bCustomMessage",
+  "resourceName": "reactamplifyexample24263bb5b4263bb5bCustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": "[\n  {\n    \"key\": \"RESOURCENAME\",\n    \"value\": \"resourceName\"\n  }\n]",
+  "triggerDir": "C:\\Users\\Carlos Caz\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "triggerEventPath": "CustomMessage.event.json",
+  "roleName": "reactamplifyexample24263bb5b4263bb5bCustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": "https://www.google.es/",
+  "EMAILSUBJECT": "kkk",
+  "EMAILMESSAGE": "link",
+  "RESOURCENAME": "resourceName",
+  "enableCors": false
+}
